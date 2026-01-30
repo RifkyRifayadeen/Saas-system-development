@@ -1,0 +1,9 @@
+cd backend
+npm run dev
+indiduval terminal run pannaum 
+
+cd frontend
+npm run dev
+
+
+already elllam indtall panni setup panniyachi 
